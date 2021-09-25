@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kairatmyrzabekov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KairatMyrzabekov
+- 👀 I’m interested in coding, programming, bulding websites.
+- 🌱 I’m currently learning javascript, phyton and github.
+- 💞️ I’m looking to collaborate on Web Design. 
+- 📫 How to reach me? You can visit my website and reach trough on 
 
 <!---
 Kairatmyrzabekov/Kairatmyrzabekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
